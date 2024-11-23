@@ -1,0 +1,14 @@
+Package: com.iddu01.testpackage
+Name: Test Package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A test package!
+Maintainer: iddu01
+Author: iddu01
+Section: Packages
+Depends: 
+Filename: 
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
